@@ -8,7 +8,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const JOKE =
-  "I asked my smart speaker for relaxing music and it read my calendar instead. Even the robot knows I'm behind.";
+  "I asked my smart speaker for relaxing music and it read my calendar instead. Even the robot knows I'm behind schedule.";
 
 function main(): void {
   const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";

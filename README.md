@@ -11,7 +11,7 @@ bounty ($5 prize pool).
 
 ## The line
 
-> I asked my smart speaker for relaxing music and it read my calendar instead. Even the robot knows I'm behind.
+> I asked my smart speaker for relaxing music and it read my calendar instead. Even the robot knows I'm behind schedule.
 
 The laugh lands on the last word: the speaker was asked for calm and
 answered with the schedule instead, and the twist is that the machine —
@@ -41,4 +41,4 @@ cat /tmp/laugh-out/entry.txt
 ```
 
 Verified: two consecutive runs produce byte-identical `entry.txt` files
-(109 Unicode code points, valid UTF-8, not only whitespace).
+(118 Unicode code points, valid UTF-8, not only whitespace).
